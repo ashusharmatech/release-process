@@ -4,7 +4,7 @@
 
     <groupId>com.github.ashusharmatech</groupId>
     <artifactId>release-process</artifactId>
-    <version>0.0.7</version>
+    <version>0.0.8-SNAPSHOT</version>
     <name>release-process</name>
     <description>Release Process Testing using Maven Plugins</description>
 
